@@ -44,8 +44,8 @@ public final class RadiumClient {
     private NotificationManager notificationManager;
     private CommandManager commandManager;
     private AltManager altManager;
-    public static final String NAME = "Radium";
-    public static final String VERSION = "v1.4.0";
+    public static final String NAME = "Qemic Rapes Niggers";
+    public static final String VERSION = "v9.9.9";
 
     public PlayerManager getPlayerManager() {
         return playerManager;
